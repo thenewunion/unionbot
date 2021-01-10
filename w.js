@@ -1,6 +1,8 @@
 //https://waguide.pedroslopez.me/
 //npm install qrcode-terminal
 //npm i whatsapp-web.js
+heroku buildpacks:set heroku/nodejs
+
 
 //https://pedroslopez.me/whatsapp-web.js/
 
